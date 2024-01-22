@@ -139,26 +139,43 @@ Please explain which aim(s) of the ORD "contribute projects" you seek to address
 
 It is important that Explore projects are not self-centred but emphasize exchanges in the spirit of Open Science with other researchers, technical experts, and stakeholders.
 
-## Section 1.1
 
--   One paragraph. 50 to 70 words
--   Reference @wilkinson2016fair
+## openwashdata community
 
-## Section 1.2
+The openwashdata community has a home. We received funding for under the first call for Explore projects by the ETH Board and successfully build up a community of people that are interested in open data and open code in the greater Water, Sanitation, and Hygiene (WASH) sector.  
 
--   One paragraph. 50 to 70 words
+We have a build a website with 10 visitors daily, a monthly newsletter reaching X people, a community chat with 100 members, a 10 week data science programme with X graduates, and most importantly, a defined data publishing workflow for datasets and code. The goals of all work packages have been reached and in this next phase of the openwashdata project, we hope establish the foundations for long-term sustainability. 
 
-## Section 1.3
+## data science for openwashdata 
 
--   One to two paragraphs (100 to 150 words)
+With an unexpected 222 sig-ups, we created a 10-week long data science program that significantly contribute to the build up of the community. Of the 2.5 hours allocated to each module, participants spent about 1/3 of the time in break-out rooms of two to three people, solving coding assignments together. This has lead to a cohort of people that is connected, and that has a common understanding of the data science workflow we implement for the community. We have observed that participants have started to work together on their homework assignments and exchange contact details to connect beyond the course. All graduates have published a complete data science report using GitHub Pages and shared underlying data in a GitHub repository.
 
-## Section 1.4
+We are eager to continue working with the participants of the course by offering trainings in the data publishing workflow and more advanced data science topics. Further, we will refine the content of the course to provide a second offering in the first quarter of a potentially funded proposal.
 
--   One to two paragraphs (100 to 150 words)
+This course will continue to be a vehicle for growth of the community. We envisage that the course can eventually be taught by other members of the community.
+
+## strategic partnerships
+
+The first year of the project has provided us with an opportunity to observe potential partnerships with instituions and organisations. We believe that we could provide more direct support to organisations by placing a co-funded data steward directly within the organisation. This data steward would be funded 50% by a successful ORD proposal and 50% by the organisation. The data steward would be responsible for implementing the data publishing workflow within the organisation, and would be supported by the openwashdata community. Such partnerships will further help the Global Health Engineering group at ETH Zurich to establish itself as a leader in the field of open data and open code in the WASH sector, and together with partners bring ORD practices to the WASH sector.
+
+We also believe that we need to establish a defined governance process and a sounding board for long-term success. The sounding board will be made up of members of the community and will provide feedback on the direction of the project. The governance process will define how decisions are made within the community. All of this will help to establish a long-term funding strategy for the openwashdata community.
+
+## metadata standards
+
+The first phase of the project successfully established a data publishing workflow that follows  FAIR data practices and adheres to the highest standards of rigor, transparency and reproducibility. All work is under git version control and public on Github. The includes the (unprocessed) submitted data, the code that is needed to get data from this stage to a of processed and analysis-read data, and the code that is needed to generate the figures and tables in the website that is generated to publish the data. The website is published using the R data package, which also enables detailed documentation and metadata for each dataset. An assigned DOI through Zenodo and the addition of all authors through an ORCID id makes the data citeable and provides a long-term archiving solution.
+
+In this next phase, we want to explore how we can further increase the discoverability of the created data packages. We are looking at identifying a list of existing metadata standards and schemas that could be applicable for further publication and develop the necessary code to transform the data package into these standards. Currently, data can easily be used by the R community, and we also still provide CSV and XLSX formats, however a large proportion of the science community uses Python. We will explore how we can make the data packages more accessible to the Python community by protoyping a Python data packages for the pip and conda package managers. 
 
 ## Problem statement
 
--   One to two paragraphs (100 to 150 words)
+The Global Health Engineering group has managed to establish a thriving ORD community in the WASH sector within the first year. ORD standards for data packages are specified, tools and platforms for ORD practices have been tested and selected, and a strong community has been built. 
+
+
+
+The community has a home on the internet, a monthly newsletter, a community chat, and a 10-week data science programme. The community has a defined data publishing workflow and has published 10 datasets and 10 code repositories. The community has a defined governance process and a sounding board. The community has a long-term funding strategy. The community has a defined data
+
+. The community has a home on the internet, a monthly newsletter, a community chat, and a 10-week data science programme. The community has a defined data publishing workflow and has published 10 datasets and 10 code repositories. The community has a defined governance process and a sounding board. The community has a long-term funding strategy. The community has a defined data
+
 
 # ORD project plan
 
