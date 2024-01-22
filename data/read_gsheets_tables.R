@@ -16,14 +16,14 @@ library(dplyr)
 
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("1rECNyFuJID9bjvc6pPHff5Vz-HIuUcZMJlwQ93Rc_-A") |> 
+read_sheet("1HlkM57AwrUfKeuGh9rR6kCOW8US6i_Ft-lVVS5xCflY") |> 
   write_csv(here::here("data/tables/tbl-01-work-packages.csv"))
 
 ## tbl-02-wp-activities-research-questions.csv ------------------------------
 
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("18-6BHa8NR-g2Qlpu9yVSOEFXmsh6mRsAGjvWZMhBN4I") |> 
+read_sheet("1KbxWuLBKi2mEWWeE935yR5bqoZskq6Joe-6-PviqXsY") |> 
   write_csv(here::here("data/tables/tbl-02-wp-activities-research-questions.csv"))
 
 
@@ -32,7 +32,7 @@ read_sheet("18-6BHa8NR-g2Qlpu9yVSOEFXmsh6mRsAGjvWZMhBN4I") |>
 ## copy/paste the final budget table into the DOCX template
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("1MJkJN739eI9apa0Wfg1cHmIQgSshE1arCHBPWeFJwDk") |> 
+read_sheet("1jl2yIyX7-xsnawdO26IlJY5hcOhD0Bzg9j7yt3p47uc") |> 
   write_csv(here::here("data/tables/tbl-03-eth-ord-budget-template.csv"))
 
 ## tbl-04-budget-justification -----------------------------------------------
@@ -40,7 +40,7 @@ read_sheet("1MJkJN739eI9apa0Wfg1cHmIQgSshE1arCHBPWeFJwDk") |>
 ## copy/paste the final budget table into the DOCX template
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("1Z7qNNp1DVB6F38eKfvx8FEUXzNi-ZPVfjtAetBJufdI") |> 
+read_sheet("1DHb4j8t1yhV1AyFqCY0ZkpAUwDQT2JArBAeXgiWUmNM") |> 
   write_csv(here::here("data/tables/tbl-04-budget-justification.csv"))
 
 
