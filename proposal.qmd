@@ -1,6 +1,7 @@
 ---
-title: "TITLE"
-subtitle: "SUBTILE"
+title: "openwashdata"
+subtitle: "Proposal for the second call for Explore projects by the ETH Board"
+author: "Lars Schöbitz"
 format: 
   docx:
     number-sections: true
@@ -139,68 +140,55 @@ Please explain which aim(s) of the ORD "contribute projects" you seek to address
 
 It is important that Explore projects are not self-centred but emphasize exchanges in the spirit of Open Science with other researchers, technical experts, and stakeholders.
 
-
 ## openwashdata community
 
-The openwashdata community has a home. We received funding for under the first call for Explore projects by the ETH Board and successfully build up a community of people that are interested in open data and open code in the greater Water, Sanitation, and Hygiene (WASH) sector.  
+The openwashdata community has found its home. Thanks to the funding we received from the first call for Explore projects by the ETH Board, we have successfully fostered a community of individuals who share a keen interest in open data and open code within the broader Water, Sanitation, and Hygiene (WASH) sector. We have established a website that attracts 10 visitors daily, disseminate a monthly newsletter that reaches 200 people, and maintain a community chat with 100 active members. We also run a 10-week data science programme that has produced 40 graduates. Most importantly, we have developed a clear and efficient data publishing workflow for datasets and code. We have successfully achieved the objectives of all our work packages. As we transition into the next phase of the openwashdata project, our aim is to lay the groundwork for long-term sustainability
 
-We have a build a website with 10 visitors daily, a monthly newsletter reaching X people, a community chat with 100 members, a 10 week data science programme with X graduates, and most importantly, a defined data publishing workflow for datasets and code. The goals of all work packages have been reached and in this next phase of the openwashdata project, we hope establish the foundations for long-term sustainability. 
+## Strategic partnerships
 
-## data science for openwashdata 
-
-With an unexpected 222 sig-ups, we created a 10-week long data science program that significantly contribute to the build up of the community. Of the 2.5 hours allocated to each module, participants spent about 1/3 of the time in break-out rooms of two to three people, solving coding assignments together. This has lead to a cohort of people that is connected, and that has a common understanding of the data science workflow we implement for the community. We have observed that participants have started to work together on their homework assignments and exchange contact details to connect beyond the course. All graduates have published a complete data science report using GitHub Pages and shared underlying data in a GitHub repository.
-
-We are eager to continue working with the participants of the course by offering trainings in the data publishing workflow and more advanced data science topics. Further, we will refine the content of the course to provide a second offering in the first quarter of a potentially funded proposal.
-
-This course will continue to be a vehicle for growth of the community. We envisage that the course can eventually be taught by other members of the community.
-
-## strategic partnerships
-
-The first year of the project has provided us with an opportunity to observe potential partnerships with instituions and organisations. We believe that we could provide more direct support to organisations by placing a data steward directly within these organisation. The data steward will be responsible to work with the organisation on identifying current ORD practices, develop a draft data management strategy, identify datasets that can readily be published openly, and identify datasets that need more careful consideration for publishing because of previous ethics approvals, data privacy, or industry partnerships. The openwashdata team will directly support this data steward with guidance and technical support in all activities. 
-
-Such partnerships will further help the Global Health Engineering group at ETH Zurich to establish itself as a leader in the field of open data and open code in the WASH sector, and together with partners bring ORD practices to the WASH sector.
-
-We also believe that we need to establish a defined governance process and a sounding board for long-term success. The sounding board will be made up of members of the community and will provide feedback on the direction of the project. The governance process will define how decisions are made within the community. All of this will help to establish a long-term funding strategy for the openwashdata community.
-
+The inaugural year of our project has opened doors to potential collaborations with various institutions and organizations. We envision a more hands-on approach by embedding a data steward within these entities. This steward will collaborate with the organization to identify existing ORD practices, formulate a preliminary data management strategy, pinpoint datasets ready for open publication, and discern datasets requiring careful scrutiny before publication due to ethical approvals, data privacy, or industry partnerships. Our openwashdata team will provide the steward with comprehensive guidance and technical support. These partnerships will bolster the reputation of the Global Health Engineering group at ETH Zurich as a pioneer in open data and open code within WASH sector. Together with our partners, we aim to introduce ORD  practices (e.g. Data Management Strategy & Data Management Plans) to the WASH sector
 
 ### UKZN WASH R&D Center
 
-The UKZN WASH R&D Center is a research center at the University of KwaZulu-Natal in Durban, South Africa, established in 1971 and formerly known as the Pollution Research Group. The center is a leader in WASH R&D and has provided a platform for testing of innovative sanitation solutions for local and international service providers. The so-called Sanitation Prototype Field-Testing Platform is designed to expose sanitation technologies to real world conditions early in their development by testing prototypes in informal settlements and rural households in Durban, South Africa. Between 2017 and 2020, nearly 20 prototype technologies have been tested on this platform. It was a multi-discplinary partnership between university partners, local consultancy firm Khanyisa Projects, and with involvement of the local eThekwini Municipality's Water and Sanitation Unit (EWS). On a national level this work was supported by the Water Research Commission (WRC) and financially supported by the Bill and Melinda Gates Foundation (BMGF). 
+Established in 1971, the Water, Sanitation & Hygiene Research & Development Centre (WASH R&D Centre) at the University of KwaZulu-Natal in Durban, South Africa, is a transdisciplinary research and development hub. Formerly known as the Pollution Research Group, the centre has become a leader in WASH R&D, providing a platform for testing innovative sanitation solutions for both local and international service providers. Both, Prof. Elizabeth Tilley and Open Science Specialist Lars Schöbitz have spend time at the the Centre as researchers between 2011 and 2015, enabling a long lasting relationship build on trust and mutuality.  
 
-Based on the experiences of prototyping various sanitation technologies, SASTEP (the South African Sanitation Technology Enterprise Programme) was created. The programme was created by the Water Research Commission (WRC) inpartnership with the Department of Science and Innovation (DSI), and the Bill and Melinda Foundation (BMGF) and with the support of the Department of Water and Sanitation (DWS). The WASH R&D Center is the research partner for the implementation of the programme. 
+One of the centre's key initiatives is the Sanitation Prototype Field-Testing Platform. This platform is designed to expose sanitation technologies to real-world conditions early in their development. It achieves this by testing prototypes in informal settlements and rural households in Durban, South Africa. From 2017 to 2020, nearly 20 prototype technologies were tested on this platform.
 
-The WASH R&D team consists of more than 30 people, including two directorate staff, five administrative staff, four associate professors, four senior researchers, six post-doc researchers, five PhD students, and about ten MSc students. The research methods includes a combination of qualitative and quantitative research community research, fundamental laboratory research, and a field and test lab for industry partners. 
+The platform is a result of a multidisciplinary partnership involving university partners, local consultancy firm Khanyisa Projects, and the local eThekwini Municipality's Water and Sanitation Unit (EWS). On a national level, the work was supported by the Water Research Commission (WRC) and financially backed by the Bill and Melinda Gates Foundation (BMGF). Drawing from the experiences of prototyping various sanitation technologies, the South African Sanitation Technology Enterprise Programme (SASTEP) was established. The programme was created by the Water Research Commission (WRC) in partnership with the Department of Science and Innovation (DSI), and the Bill and Melinda Gates Foundation (BMGF), with support from the Department of Water and Sanitation (DWS). The WASH R&D Centre serves as the research partner for the implementation of the programme.
 
-TODO: Figure out what that group of international laboratories is.
+Drawing from the experiences of prototyping various sanitation technologies, the South African Sanitation Technology Enterprise Programme (SASTEP) was established. The programme was created by the Water Research Commission (WRC) in partnership with the Department of Science and Innovation (DSI), and the Bill and Melinda Gates Foundation (BMGF), with support from the Department of Water and Sanitation (DWS). The WASH R&D Centre serves as the research partner for the implementation of the programme.
 
-Over the years, the WASH R&D Center has collected a large amount of data. This includes data from the Sanitation Prototype Field-Testing Platform, but also data from the research community. The data is currently stored in a variety of locations, including the university's network drives, the university's data repository, and on the personal computers of researchers. The data is not published openly and is not easily accessible to the research community.
+Over the years, the WASH R&D Centre has amassed a significant amount of data, including data from the Sanitation Prototype Field-Testing Platform and the broader research community. This data is currently stored in various locations, such as the university's network drives, the university's data repository, and on the personal computers of researchers, without a holistic data management strategy. While open access journal publications from the research are available, the data is not openly published and is not easily accessible to the research community.
 
 ### BASEflow Malawi
 
-BASEflow is a malawian social enterprise (non-profit organisation) that was founded in 2017 with the aim of improving water security in Malawi. The organisation is based in Blantyre, Malawi and has a team of X people. They have shown leadership in data collection and data sharing in the WASH sector in Malawi and support research institutions and government agencies with data collection and data management. During the first phase of openwashdata, they have published a dataset using the openwashdata workflow and are interested in continuing to work with us and develop a data management strategy for their organisation that enabled all data that can shared to be published openly.
+BASEflow, a Malawian social enterprise established in 2017, is dedicated to enhancing water security in the country. Operating from Blantyre, this non-profit organization has a committed team of 15 individuals. They have demonstrated leadership in data collection and sharing within the Water, Sanitation, and Hygiene (WASH) sector in Malawi, offering support to research institutions and government agencies in both data collection and management. During the initial phase of openwashdata, BASEflow published a dataset using the openwashdata workflow and has expressed interest in continuing the collaboration to develop a comprehensive data management strategy. This strategy aims to ensure that all shareable data is openly published. BASEflow's commitment to data transparency is exceptional in the WASH sector, where non-academic organizations typically have fewer incentives to share their data. Nevertheless, the data they provide is invaluable and often in high demand by government entities and researchers. By adopting this open approach, BASEflow is poised to set a new standard for the sector and gain recognition as a leader in promoting data openness.
 
-This unique approach is rare in the WASH sector as non-academic organisations have less incentives to share their data. However, the data holds great value and is often sought after by government and researchers. BASEflow can set a precedent for other organisations in the sector to follow this approach and be recognised for it as a leader in the sector.
+## Governance
 
-## metadata standards
+We recognize the necessity of a well-defined governance process and a feedback mechanism for the project's long-term success. We propose a sounding board composed of community members to provide feedback on the project's direction. The governance process will outline decision-making within the community, contributing to the establishment of a sustainable funding strategy for the openwashdata community
 
-The first phase of the project successfully established a data publishing workflow that follows FAIR data practices and adheres to the highest standards of rigor, transparency and reproducibility. All work is under git version control, public on Github and archived on Zneodo. This includes the (unprocessed) submitted data, the code that is needed to get data from this stage to a stage of processed and analysis-read data, and the code that is needed to generate the figures and tables in articles on websites that are created to publicize and curate the data. The website is published using the R data package ecosystem, which provides boilerplate templates for detailed documentation and provision of metadata for each dataset. An assigned DOI through Zenodo and the addition of all authors through an ORCID id makes the data findable and reusable.
+## Community building
 
-In this next phase, we want to explore how we can further increase the findability of the created data packages. We are looking at identifying a list of existing metadata standards and schemas that could be applicable for further publication and we develop the necessary code to transform the data package into these standards (e.g. JSON Table Schema of Frictionless Standards, Dublin Core Metadata Element Set).
+With an impressive 222 sign-ups, we launched a 10-week data science program that has made a significant contribution to the growth of our community. Each module, lasting 2.5 hours, devoted roughly one-third of the time to break-out sessions where participants, in groups of two or three, collaboratively tackled coding assignments. This approach has fostered a network of individuals who are not only connected but also share a unified understanding of the data science workflow we advocate for within the community. We've noticed that participants began collaborating on homework assignments and sharing contact details to stay connected beyond the course. All graduates have completed and published a full data science report on GitHub Pages, along with the corresponding data in a GitHub repository. We are excited to continue our engagement with the course participants by offering additional training in data publishing workflows and advanced data science topics. Moreover, we plan to refine the course content for a second iteration, which we aim to offer in the first quarter, contingent upon the approval of our funding proposal. This course is poised to be a catalyst for community expansion. Our vision is that, in time, the course will be led by various community members, further embedding the spirit of collaboration and knowledge-sharing that defines our initiative.
 
-Currently, data can easily be used by the R community, and we also still provide CSV and XLSX formats, however a large proportion of the science community uses Python programming. We will explore how we can make the datasets more interoperable and accessible to the Python community by protoyping a Python data packages for the pip and conda package managers. 
+## Increase FAIRness
 
-Lastly, the R data packages are currently installed from Github using the `remotes` or `devtools` R packages. The effort of submitting all datasets to the Comprehensive R Archive Network (CRAN) is too time intensive to be justified at this point. However, we will explore to develop an R package and submit it to CRAN for providing a way to explore all published datasets and install them through this package. A publication of an R package on CRAN will significantly increase the findability of our data and further improve the process of exploring and reusing the data.
+The initial phase of our project successfully established a data publishing workflow that adheres to FAIR data practices and the highest standards of rigor, transparency, and reproducibility. All work is under git version control, publicly available on Github, and archived on Zenodo. This includes the submitted raw data, the code required to process and prepare the data for analysis, and the code needed to generate figures and tables for articles on websites created to publicize and curate the data. We publish the website using the R data package ecosystem, which provides templates for detailed documentation and metadata provision for each dataset. Assigning a DOI through Zenodo and adding all authors through ORCID id ensures the data is findable and reusable.
+
+In the next phase, we aim to enhance the findability of our data packages. We plan to identify a list of existing metadata standards and schemas suitable for further publication, and develop the necessary code to transform the data package into these standards (e.g., JSON Table Schema of Frictionless Standards, Dublin Core Metadata Element Set).
+
+While our data is easily accessible to the R community and we continue to provide CSV and XLSX formats, we recognize that a significant portion of the scientific community uses Python. Therefore, we will explore ways to make our datasets more interoperable and accessible to the Python community by prototyping Python data packages for the pip and conda package managers.
+
+Currently, our R data packages are installed from Github using the remotes or devtools R packages. The effort required to submit all datasets to the Comprehensive R Archive Network (CRAN) is currently too time-intensive to justify. However, we plan to explore the development of an R package and its submission to CRAN, which would provide a way to explore all published datasets and install them through this package. Publishing an R package on CRAN will significantly enhance the findability of our data and further streamline the process of exploring and reusing the data. 
+
+Lastly, we will utilize existing tools to assess the FAIRness of our datasets and use the results to further enhance the FAIRness of our datasets.
 
 ## Problem statement
 
-The Global Health Engineering group has managed to establish a thriving ORD community in the WASH sector within its first year. ORD standards for data packages are specified, tools and platforms for ORD practices have been tested and selected, and a strong and active community has been built. 
-
-In this next phase, we are hoping to set the foundation for long-term sustainability of the community and further increase the application of FAIR principles to the data that is published. This next phase will enable us to explore and develop partnerships, which the Global Health Engineering group will further leverage beyond the project's duration. 
-
+Within its inaugural year, the Global Health Engineering group has successfully cultivated a ORD community WASH sector. We have defined ORD standards for data packages, evaluated and chosen tools and platforms for ORD practices, and established a vibrant and engaged community. As we embark on the next phase, our goal is to lay the groundwork for the community's long-term sustainability and to enhance the application of FAIR principles to the data we publish. This phase will provide us with the opportunity to seek and develop partnerships that the Global Health Engineering group can leverage even after the project concludes.
 
 # ORD project plan
-
-<!--# Edit work package names, activities and research questions in corresponding Google Sheet at: https://drive.google.com/drive/u/1/folders/1rcNgjQcII-V5N3Q5Z_KjM_6ghxFve20e -->
 
 **Instructions**
 
@@ -214,7 +202,7 @@ Please describe your project design, including how it addresses the aim(s) of th
 
 ### Goal
 
--   Describe the work concisely in 1 paragraph (80 to 120 words)
+The goal of WP1 is to establish and strengthen strategic partnerships with key institutions and organizations in the WASH sector to promote ORD practices and enhance the impact of the openwashdata community. 
 
 ### Activities
 
@@ -230,13 +218,13 @@ Please describe your project design, including how it addresses the aim(s) of th
 
 ### Aims addressed
 
--   Write a sentence on how the aims of the Explore call are addressed by this WP and it's corresponding activities
+This WP addresses the aim of building communities to engage in ORD practices by fostering collaborations that emphasize exchanges in the spirit of Open Science with other researchers, technical experts, and stakeholders. It further addresses specific knowledge gaps around ethical approval in different countries, for different organisations (NGO & University) and for different types of data (qualitative, quantitative, observational, experimental, etc.) (REFERENCE). Our strategy is to establish a cohort of data stewards organised through implementing agile project management practices (bi-weekly sprint meetings, quarterly strategy meetings, etc.). This will enable us to quickly respond to the needs of the community and develop a strong network of data stewards that can support each other and the community.
 
 ## `r paste0(wp_no[2], ": ", wp_name[2])`
 
 ### Goal
 
--   Describe the work concisely in 1 paragraph (80 to 120 words)
+The goal of WP2 is to establish a robust governance framework that ensures the sustainability and integrity of the openwashdata community and its initiatives.
 
 ### Activities
 
@@ -252,13 +240,13 @@ Please describe your project design, including how it addresses the aim(s) of th
 
 ### Aims addressed
 
--   Write a sentence on how the aims of the Explore call are addressed by this WP and it's corresponding activities
+This WP contributes to the aim of building communities by establishing a governance process that involves the community in decision-making and strategic planning. 
 
 ## `r paste0(wp_no[3], ": ", wp_name[3])`
 
 ### Goal
 
--   Describe the work concisely in 1 paragraph (80 to 120 words)
+The goal of WP3 is to expand and strengthen the openwashdata community through targeted engagement and capacity-building activities. 
 
 ### Activities
 
@@ -274,13 +262,13 @@ Please describe your project design, including how it addresses the aim(s) of th
 
 ### Aims addressed
 
--   Write a sentence on how the aims of the Explore call are addressed by this WP and it's corresponding activities
+This WP aligns with the aim of building communities to engage in ORD practices by providing training, mentorship, and networking opportunities that support community growth and engagement. Our strategy is to further engage with the cohort of students and graduates of our first ORD training course (data science for openwashdata). They will become advocates for the already established openwashdata data publishing workflow and become mentors in onboarding new community members.
 
 ## `r paste0(wp_no[4], ": ", wp_name[4])`
 
 ### Goal
 
--   Describe the work concisely in 1 paragraph (80 to 120 words)
+The goal of WP4 is to enhance the Findability, Accessibility, Interoperability, and Reusability (FAIR) of data produced by the openwashdata community.
 
 ### Activities
 
@@ -296,9 +284,9 @@ Please describe your project design, including how it addresses the aim(s) of th
 
 ### Aims addressed
 
--   Write a sentence on how the aims of the Explore call are addressed by this WP and it's corresponding activities
+This WP addresses the aims of specifying ORD standards and prototyping ORD tools by creating accessible data packages and improving the FAIRness of datasets, thus facilitating and fostering sharing research data based on ORD principles. 
 
-# Impact
+# Impact (TODO)
 
 **Instructions**
 
@@ -322,14 +310,14 @@ The following Table X shows a basic gantt chart against the four work packages, 
 
 "Any publications derived from this program will be published as open access material, following ORD practices and Open Science standards for computational reproducibility and sharing of data and code under FAIR principles."
 
-Table X: https://docs.google.com/spreadsheets/d/18-6BHa8NR-g2Qlpu9yVSOEFXmsh6mRsAGjvWZMhBN4I/edit#gid=0
+Table X: https://docs.google.com/spreadsheets/d/1KbxWuLBKi2mEWWeE935yR5bqoZskq6Joe-6-PviqXsY/edit#gid=0
 
 # Resources (including project costs)
 
-Table Y: https://docs.google.com/spreadsheets/d/1MJkJN739eI9apa0Wfg1cHmIQgSshE1arCHBPWeFJwDk/edit#gid=0
+Table Y: https://docs.google.com/spreadsheets/d/1jl2yIyX7-xsnawdO26IlJY5hcOhD0Bzg9j7yt3p47uc/edit?usp=drive_web&ouid=106935258332658829405
 
 # Budget justification and description of co-financing
 
-Table Z: https://docs.google.com/spreadsheets/d/1Z7qNNp1DVB6F38eKfvx8FEUXzNi-ZPVfjtAetBJufdI/edit#gid=0
+Table Z: https://docs.google.com/spreadsheets/d/1DHb4j8t1yhV1AyFqCY0ZkpAUwDQT2JArBAeXgiWUmNM/edit#gid=0
 
 # Bibliography

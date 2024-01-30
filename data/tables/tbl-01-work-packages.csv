@@ -1,5 +1,5 @@
-WP,Name,Lead
-WP1,Work package name 1,Work package lead institution
-WP2,Work package name 2,Work package lead institution
-WP3,Work package name 3,Work package lead institution
-WP4,Work package name 4,Work package lead institution
+WP,Name,Goal,Lead
+WP1,Strategic Partnerships,The goal of this work package is to explore strategic partnerships that will establish ORD practices with these organisation and provide an example of ORD leadership to other organisations in the WASH sector.,"ETH Zurich, Global Health Engineering"
+WP2,Governance,The goal of this work package is to setup a sounding board and governing structure for the openwashdata to enable efficient decision-making and provide a vehicle to identify avenues for long-term sustainability of the community.,"ETH Zurich, Global Health Engineering"
+WP3,Community building,The goal of this work package is to continue building the openwashdata community by providing more opportunities for further education to community members.,"ETH Zurich, Global Health Engineering"
+WP4,Increase FAIRness,The goal of this work package is to further explore how the application of FAIR principles could be increased for datasets published under the openwashdata workflow.,"ETH Zurich, Global Health Engineering"
