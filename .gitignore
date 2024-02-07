@@ -2,4 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# file types
 *.docx
+
+# folders
+admin
+
+# specific files
+tbl-05-*

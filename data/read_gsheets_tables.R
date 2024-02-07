@@ -44,5 +44,9 @@ read_sheet("1DHb4j8t1yhV1AyFqCY0ZkpAUwDQT2JArBAeXgiWUmNM") |>
   write_csv(here::here("data/tables/tbl-04-budget-justification.csv"))
 
 
+## tbl-05-openwashdata-ghe-ukzn-budget -----------------------------------------------
+
+read_sheet("1nYhnR2o7IdmRAq9JMK4fqE4bApAAN6rqKT5LEmJDUYU") |> 
+  write_csv(here::here("data/tables/tbl-05-openwashdata-ghe-ukzn-budget.csv"))
 
 
