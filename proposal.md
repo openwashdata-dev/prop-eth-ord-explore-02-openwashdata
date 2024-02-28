@@ -183,6 +183,17 @@ open code within WASH sector. Together with our partners, we aim to
 introduce ORD practices (e.g. Data Management Strategy & Data Management
 Plans) to the WASH sector.
 
+The two institutions at which the data stewards are employed will be
+included as sub-contractors to the proposal. The allocated resources
+will fund 50% of the position at each institution. In the context of
+this project, sub-contracting these data stewards is absolutely
+necessary to ensure that we can actively work with the data stewards at
+the institutions to implement ORD practices. These data stewards will be
+hired for this task specifically. Further, this effort highlights that
+data stewardship should not be done by researchers actively working
+within a research group, but by an additional administrative resource
+that is dedicated to the task.
+
 In addition to these two core data stewards, we will identify graduates
 of our first “data science for openwashdata” course to become part of
 the data stewardship network, limiting it to six individuals in total
