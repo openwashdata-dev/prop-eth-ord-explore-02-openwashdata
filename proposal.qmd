@@ -74,11 +74,11 @@ wp5_rqs <- filter(tbl02, WP == "WP5") |>
 
 # Abstract
 
+We established the openwashdata community for the Water, Sanitation, and Hygiene (WASH) sector. We built infrastructure and communication channels, taught 100 WASH professionals the basics of data science, developed a workflow to publish WASH data following FAIR data principles, and mobilized those in the sector who were interested in joining our vision and mission. Our next step is establishing a data stewardship network, actively working with strategic partners in Malawi and South Africa by placing a fully-funded data steward within a research institute and a non-governmental organization. A newly developed 12-module "data stewardship for openwashdata" training programme will develop data management strategies and help our partners to institutionalize ORD practices long-term within their organizations. We will also further invest in the openwashdata publishing arm of the community by increasing the FAIRness of our data, critically analyzing how to better address the details of all four components of FAIR: Findability, Accessibility, Interoperability, and Reusability. We will also set up a governance structure and sounding board to ensure the long-term sustainability of the community. Through our activities and active open communications channels, we expect to create a demand for data stewardship in the WASH sector, assess their role and define a profile for data stewards more generally.
+
 # Keywords
 
-**Instructions**
-
-- 5 keywords that characterise your proposal (separated by commas)
+data stewardship, FAIR principles, network, collaboration, competencies
 
 # Proposal full title
 
@@ -97,10 +97,10 @@ The openwashdata community has found its home. Thanks to the funding we received
 This proposal is outlined along the figure below which can serve as an overall organogram of the different openwashdata elements.
 
 ```{r}
-knitr::include_graphics("images/openwashdata-vision.png")
+knitr::include_graphics("images/organogram.png")
 ```
 
-### Phase 1
+### ORD Phase 1
 
 We have established a website for the openwashdata community that attracts 10 unique visitors daily, we disseminate a monthly newsletter that reaches 200 people, and we maintain a community chat with 100 active members.
 
@@ -110,7 +110,7 @@ Lastly, we started “openwashdata publishing”: a clear and efficient data pub
 
 We have successfully achieved the objectives of all our work packages in phase 1. As we transition into the next phase, our aim is to lay the groundwork for long-term sustainability of ORD practices in the sector.
 
-### Phase 2
+### ORD Phase 2
 
 The core of this proposal as we transition into phase 2 openwashdata community is to extend the established openwashdata academy. Our first course has had the most significant impact on community development and increasing competencies for ORD practices remains crucial for this community. We will also further invest into the openwashdata publishing arm of the community, as our data packages still have signficant potential to improve on FAIR data practices. We will also setup a governance structure and sounding board to ensure the long-term sustainability of the community.
 
