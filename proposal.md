@@ -1,104 +1,41 @@
 # openwashdata
 Lars Schöbitz
 
-# Call Info
-
-## Website
-
-- Measure 1: Calls for Field-Specific Actions
-- https://ethrat.ch/en/measure-1-calls-for-field-specific-actions/
-- Explore projects will allow early phase exploration, testing and
-  prototyping of what an ORD practice could be like. They will enable
-  starting to engage with a community without necessarily building up
-  something definitive. The aim is to help our researchers to explore if
-  ORD practices can be developed and how.
-
-## Aims
-
-Funding for “Explore projects” aims at:
-
-1.  Specifying ORD standards.
-2.  Prototyping ORD tools.
-3.  Building Communities to engage in ORD practices.
-4.  Any other means that help explore and develop ORD practices.
-
-It is important that Explore projects are not self-centred but emphasize
-exchanges in the spirit of Open Science with other researchers,
-technical experts, and stakeholders.
-
-## Application guidelines (ETH Domain)
-
-- https://ethrat.ch/wp-content/uploads/2023/10/Application-Guidelines_TrackA_Explore_2nd_call_FINAL.pdf
-- It is the declared goal to fund proposals that make tools (e.g.,
-  software; hardware; protocols; standards; benchmarks; documentation
-  and training materials; networking and education events, activities
-  and resources) available which enable, facilitate and foster sharing
-  research data based on ORD principles. Preference will be given to
-  projects which engage and are connected to a community. Therefore,
-  applicants are strongly invited to demonstrate why their project
-  represents an ORD practice that encourages good research in their
-  field.
-
-## Application guidelines (ETHZ & EPFL)
-
-- https://ethrat.ch/wp-content/uploads/2023/10/Application-guidelines-Explore-EPFL-ETHZ-applicants-2nd-call-LATEST.pdf
-
-For applicants at ETHZ
-
-- In this Explore call, applicants at ETHZ must contribute 25% of the
-  total budget from the resources of their lab/group/unit, either
-  in-cash or in-kind. See the budgeting guidelines below for eligible
-  contributions.
-
-For applicants at EPFL
-
-- In this Explore call, applicants at EPFL can be funded for 100% of the
-  total budget.
-
-# Project Proposal
-
-Your project proposal must not exceed 12 pages, excluding the
-bibliography (A4, Arial 11-point font, 1.5 line-spacing, 2-centimeter
-margins). Please address all points below.
-
 # Abstract
 
-**Instructions**
-
-- maax 1500 characters
-- needed on submission portal
-- will be displayed publicly, see for example:
-  https://ethrat.ch/wp-content/uploads/2022/11/ORD_Explore_call1_decisiontable_for-publication.pdf
+We established the openwashdata community for the Water, Sanitation, and
+Hygiene (WASH) sector. We built infrastructure and communication
+channels, taught 100 WASH professionals the basics of data science,
+developed a workflow to publish WASH data following FAIR data
+principles, and mobilized those in the sector who were interested in
+joining our vision and mission. Our next step is establishing a data
+stewardship network, actively working with strategic partners in Malawi
+and South Africa by placing a fully-funded data steward within a
+research institute and a non-governmental organization. A newly
+developed 12-module “data stewardship for openwashdata” training
+programme will develop data management strategies and help our partners
+to institutionalize ORD practices long-term within their organizations.
+We will also further invest in the openwashdata publishing arm of the
+community by increasing the FAIRness of our data, critically analyzing
+how to better address the details of all four components of FAIR:
+Findability, Accessibility, Interoperability, and Reusability. We will
+also set up a governance structure and sounding board to ensure the
+long-term sustainability of the community. Through our activities and
+active open communications channels, we expect to create a demand for
+data stewardship in the WASH sector, assess their role and define a
+profile for data stewards more generally.
 
 # Keywords
 
-**Instructions**
-
-- 5 keywords that characterise your proposal (separated by commas)
-- needed on submission portal
+data stewardship, FAIR principles, network, collaboration, competencies
 
 # Proposal full title
 
-**Instructions**
+Open WASH data by establishing Data Stewards and increasing FAIRness
 
-Please include a project title (max. 12 words); this title will be used
-for all correspondence. Proposal Acronym (mandatory)
+Acronym: openwashdata
 
 # Background and motivation
-
-**Instructions**
-
-Please explain which aim(s) of the ORD “contribute projects” you seek to
-address:
-
-1.  Specifying ORD standards.
-2.  Prototyping ORD tools.
-3.  Building Communities to engage in ORD practices.
-4.  Any other means that help explore and develop ORD practices.
-
-It is important that Explore projects are not self-centred but emphasize
-exchanges in the spirit of Open Science with other researchers,
-technical experts, and stakeholders.
 
 ## openwashdata community
 
@@ -108,46 +45,51 @@ have successfully fostered a community of individuals who share a keen
 interest in open data and open code within the broader Water,
 Sanitation, and Hygiene (WASH) sector.
 
-### Organigram
+### Organogram
 
 This proposal is outlined along the figure below which can serve as an
-overall organigram of the different openwashdata elements.
+overall organogram of the different openwashdata elements.
 
-![](images/openwashdata-vision.png)
+![](images/openwashdata-organogram.png)
 
-### Phase 1
+### ORD Phase 1
 
 We have established a website for the openwashdata community that
-attracts 10 unique visitors daily, disseminate a monthly newsletter that
-reaches 200 people, and maintain a community chat with 100 active
-members.
+attracts 10 unique visitors daily, we disseminate a monthly newsletter
+that reaches 200 people, and we maintain a community chat with 100
+active members.
 
 We also established the openwashdata academy with our 10-week “data
 science for openwashdata” training programme, which has produced 40
 graduates.
 
-Lastly, and most importantly, we started “openwashdata publishing” a
-clear and efficient data publishing workflow for datasets and code that
-follows FAIR principles and highest standards for computational
-reproducibility and version control.
+Lastly, we started “openwashdata publishing”: a clear and efficient data
+publishing workflow for datasets and code that follows FAIR principles
+and highest standards for computational reproducibility and version
+control.
 
 We have successfully achieved the objectives of all our work packages in
-phase 1. As we transition into the next phase of, our aim is to lay the
+phase 1. As we transition into the next phase, our aim is to lay the
 groundwork for long-term sustainability of ORD practices in the sector.
 
-### Phase 2
+### ORD Phase 2
 
 The core of this proposal as we transition into phase 2 openwashdata
-community is to extend the established openwashdata academy and further
-invest into the openwashdata publishing arm of the community. We will
-also setup a governance structure and sounding board to ensure the
-long-term sustainability of the community.
+community is to extend the established openwashdata academy. Our first
+course has had the most significant impact on community development and
+increasing competencies for ORD practices remains crucial for this
+community. We will also further invest into the openwashdata publishing
+arm of the community, as our data packages still have signficant
+potential to improve on FAIR data practices. We will also setup a
+governance structure and sounding board to ensure the long-term
+sustainability of the community.
 
 ## openwashdata academy
 
-Next to the 10-week “data science for openwashdata” training programme,
-we will develop a 12-module “data stewardship for openwashdata” training
-programme, offered to a newly established data stewardship network.
+Along with the 10-week “data science for openwashdata” training
+programme, we will develop a 12-module “data stewardship for
+openwashdata” training programme, offered to a newly established data
+stewardship network.
 
 ### data science for openwashdata
 
@@ -156,7 +98,7 @@ program that has made a significant contribution to the growth of our
 community. Each module, lasting 2.5 hours, devoted roughly one-third of
 the time to break-out sessions where participants, in groups of two or
 three, collaboratively tackled coding assignments. This approach has
-fostered a network of individuals who are not only connected but also
+fostered a network of individuals who are not only connected, but also
 share a unified understanding of the data science workflow we advocate
 for within the community. We’ve noticed that participants began
 collaborating on homework assignments and sharing contact details to
@@ -168,36 +110,28 @@ We intend to invite the graduates to a newly established data
 stewardship network and continue our engagement by offering additional
 training in the openwashdata data publishing workflow.
 
-### data stewarship network
+### data stewardship network
 
 We envision a more hands-on approach by embedding a data steward within
 two entities. This steward will collaborate with the organization to
 identify existing ORD practices, formulate a preliminary data management
-strategy, pinpoint datasets ready for open publication, and discern
-datasets requiring careful scrutiny before publication due to ethical
-approvals, data privacy, or industry partnerships. Our openwashdata team
-will provide the steward with comprehensive guidance and technical
-support. These partnerships will bolster the reputation of the Global
-Health Engineering group at ETH Zurich as a pioneer in open data and
-open code within WASH sector. Together with our partners, we aim to
-introduce ORD practices (e.g. Data Management Strategy & Data Management
-Plans) to the WASH sector.
+strategy, pinpoint datasets ready for open publication, and identify
+datasets requiring more careful scrutiny before publication due to
+ethical approvals, data privacy, or industry partnerships. Our
+openwashdata team will provide the steward with comprehensive guidance
+and technical support. These partnerships will bolster the reputation of
+the Global Health Engineering group at ETH Zurich as a pioneer in open
+data and open code within WASH sector. Together with our partners, we
+aim to introduce and eventually solidify ORD practices (e.g. Data
+Management Strategy & Data Management Plans) to the WASH sector. Already
+established partnerships from Phase 1 of the project will continue to be
+a place for collaboration and exchange within the ETH Domain
+(https://rseed.ch/) and beyond (https://washweb.org/).
 
-The two institutions at which the data stewards are employed will be
-included as sub-contractors to the proposal. The allocated resources
-will fund 50% of the position at each institution. In the context of
-this project, sub-contracting these data stewards is absolutely
-necessary to ensure that we can actively work with the data stewards at
-the institutions to implement ORD practices. These data stewards will be
-hired for this task specifically. Further, this effort highlights that
-data stewardship should not be done by researchers actively working
-within a research group, but by an additional administrative resource
-that is dedicated to the task.
-
-In addition to these two core data stewards, we will identify graduates
-of our first “data science for openwashdata” course to become part of
-the data stewardship network, limiting it to six individuals in total
-for the beginning year.
+In addition to the two core data stewards, we will identify graduates of
+our first “data science for openwashdata” course to become part of the
+data stewardship network, limiting it to six individuals in total for
+the beginning year.
 
 #### UKZN WASH R&D Center
 
@@ -207,7 +141,7 @@ in Durban, South Africa, is a transdisciplinary research and development
 hub. Formerly known as the Pollution Research Group, the Centre has
 become a leader in WASH R&D, providing a platform for testing innovative
 sanitation solutions for both local and international service providers
-and technology developers. Both, Prof. Elizabeth Tilley and Open Science
+and technology developers. Both Prof. Elizabeth Tilley and Open Science
 Specialist Lars Schöbitz have spent time at the Centre as researchers
 between 2011 and 2015, enabling a long lasting relationship built on
 trust and mutuality.
@@ -217,11 +151,11 @@ Engineering Field-Testing (EFT) Platform. This platform was designed to
 expose sanitation technologies to real-world conditions early in their
 development. It achieved this by testing prototypes in informal
 settlements and rural households in Durban, South Africa. From 2017 to
-2020, nearly 20 prototype technologies were tested on this platform
+2020, nearly 20 prototype technologies were tested on this platform.
 
 The platform is a result of a multidisciplinary partnership involving
-university partners, local consultancy firm Khanyisa Projects, and the
-local eThekwini Municipality’s Water and Sanitation Unit (EWS). On a
+university partners, the local consultancy firm Khanyisa Projects, and
+the local eThekwini Municipality’s Water and Sanitation Unit (EWS). On a
 national level, the work was supported by the Water Research Commission
 (WRC) and financially backed by the Bill & Melinda Gates Foundation
 (BMGF). Drawing from the experiences of prototyping various sanitation
@@ -279,18 +213,18 @@ but rather help determine the best practices for the group, allowing
 individuals to use the workflows and tools that suit them best to
 maintain autonomy, however encouraging best practices for ORD.
 
-The programme will be a monthly offering of 12 modules, each of which
-consisting of a 1-hour teaching module, a 1-hour hands-on workshop, and
-a 1-hour discussion group exchange.
+The programme will consist of a monthly offering of 12 modules, each of
+which is composed of a 1-hour teaching module, a 1-hour hands-on
+workshop, and a 1-hour discussion group exchange.
 
 ## Governance
 
 We recognize the necessity of a well-defined governance process and a
-feedback mechanism for the project’s long-term success. We propose a
-sounding board composed of six members to provide feedback on the
+feedback mechanism for the project’s long-term success. We propose an
+advisory board composed of six members to provide feedback on the
 project’s direction. The governance process will outline decision-making
 within the community and contribute to the establishment of a
-sustainable funding strategy for the openwashdata community
+sustainable funding strategy for the openwashdata community.
 
 ## openwashdata publishing
 
@@ -298,16 +232,16 @@ sustainable funding strategy for the openwashdata community
 
 The initial phase of our project successfully established a data
 publishing workflow that adheres to FAIR data practices and the highest
-standards of rigor, transparency, and reproducibility. All work is under
-git version control, publicly available on Github, and archived on
-Zenodo. This includes the submitted raw data, the code required to
-process and prepare the data for analysis, and the code needed to
-generate figures and tables for articles on websites created to
-publicize and curate the data. We publish the website using the R data
-package ecosystem, which provides templates for detailed documentation
-and metadata provision for each dataset. Assigning a DOI through Zenodo
-and adding all authors through ORCID id ensures the data is findable and
-reusable.
+standards of rigour, transparency, and reproducibility \[1\]. All work
+is under git version control, publicly available on Github, and archived
+on Zenodo. This workflow includes the submitted raw data, the code
+required to process and prepare the data for analysis, and the code
+needed to generate figures and tables for articles on websites created
+to publicise and curate the data. We publish the website using the R
+data package ecosystem, which provides templates for detailed
+documentation and metadata provision for each dataset. Assigning a DOI
+through Zenodo and adding all authors through ORCID id ensures the data
+is findable and reusable.
 
 In the next phase, we aim to enhance the findability of our data
 packages. We plan to identify a list of existing metadata standards and
@@ -332,14 +266,14 @@ Publishing an R package on CRAN will significantly enhance the
 findability of our data and further streamline the process of exploring
 and reusing the data.
 
-Lastly, we will utilize existing tools to assess the FAIRness of our
+Lastly, we will utilise existing tools to assess the FAIRness of our
 datasets and use the results to further enhance the FAIRness of our
 datasets.
 
 ### Journal for openwashdata
 
 Under our publishing arm, we will start to identify the process of
-establishing our own journal for openwashdata. This purpose of this
+establishing our own journal for openwashdata. The purpose of this
 journal is not to highlight scientific results, but to provide a
 platform for data publishing. Our initial vision is to host this journal
 entirely through GitHub, using Quarto documents as a submission format,
@@ -351,26 +285,12 @@ publishing workflow as a submission format.
 
 # ORD project plan
 
-**Instructions**
-
-Please describe your project design, including how it addresses the
-aim(s) of the ORD “Explore projects” described above. Please refer to
-the scientific literature as well as any preliminary, unpublished
-results that have informed your approach.
-
-- Which specific gap(s) in knowledge will your work address? Why is your
-  approach innovative?
-- What questions will the project answer? What specific outcomes will
-  you focus on?
-- Which strategy will you use to address the questions you seek to
-  answer?
-
 ## WP1: Data stewardship network
 
 ### Goal
 
 The goal of WP1 is to establish and strengthen strategic partnerships
-with key institutions and organizations in the WASH sector to promote
+with key institutions and organisations in the WASH sector to promote
 ORD practices and enhance the impact of the openwashdata community.
 
 ### Activities
@@ -390,16 +310,18 @@ ORD practices and enhance the impact of the openwashdata community.
 ### Aims addressed
 
 This WP addresses the aim of building communities to engage in ORD
-practices by fostering collaborations that emphasize exchanges in the
+practices by fostering collaborations that emphasise exchanges in the
 spirit of Open Science with other researchers, technical experts, and
 stakeholders. It further addresses specific knowledge gaps around
 ethical approval in different countries, for different organisations
 (NGO & University) and for different types of data (qualitative,
-quantitative, observational, experimental, etc.) (REFERENCE). Our
-strategy is to establish a cohort of data stewards organised through
-implementing agile project management practices (bi-weekly sprint
-meetings, quarterly strategy meetings, etc.). This will enable us to
-quickly respond to the needs of the community and develop a strong
+quantitative, observational, experimental, etc.) \[2\]. Our strategy is
+to establish a cohort of data stewards organised through implementing
+agile project management practices (bi-weekly sprint meetings, quarterly
+strategy meetings, etc.). The technical infrastructure exists from Phase
+1, we have experience in async communication, global collaboration and
+experience from the open source community. This strategy will enable us
+to quickly respond to the needs of the community and develop a strong
 network of data stewards that can support each other and the community.
 
 ## WP2: Governance
@@ -465,8 +387,8 @@ This WP aligns with the aim of building communities to engage in ORD
 practices by providing training, mentorship, and networking
 opportunities that support community growth and engagement. Our strategy
 is to further engage with the cohort of students and graduates of our
-first ORD training course (data science for openwashdata). They will
-become advocates for the already established openwashdata data
+first ORD training course (data science for openwashdata). The graduates
+will become advocates for the already established openwashdata data
 publishing workflow and become mentors in onboarding new community
 members.
 
@@ -476,7 +398,7 @@ members.
 
 The goal of WP4 is to enhance the Findability, Accessibility,
 Interoperability, and Reusability (FAIR) of data produced by the
-openwashdata community.
+openwashdata community \[1\].
 
 ### Activities
 
@@ -503,64 +425,83 @@ ORD tools by creating accessible data packages and improving the
 FAIRness of datasets, thus facilitating and fostering sharing research
 data based on ORD principles.
 
-## WP5: Journal for openwashdata
+# Impact
 
-### Goal
+**How sustainable is the proposed project inside the ETH Domain?**
 
-The goal of this work package is to identify the process of establishing
-a journal that highlights data as a the product of (academic) work.
+The first phase funding from the ETH ORD Explore programme has not only
+allowed us to mobilise a growing and engaged audience, but also to build
+new connections and collaborations within the ETH Domain itself
+(e.g. the Research Software Engineering and Economic Data (RSEED)
+division at KOF Swiss Economic Institute). Concurrent to our funded
+work, we have started an openwashdata internship programme targeted at
+graduates of the Data Science and Computer Science programmes at ETH
+Zurich. This programme enables us to engage with the next generation of
+data stewards and advocates for ORD practices at ETH, while benefiting
+from the excellent competencies of the graduates. We are actively
+promoting the openwashdata R data package workflow within the ETH Domain
+to further advance its application and increase the number of people
+applying these principles in domains beyond WASH. Lastly, we are in the
+process of establishing a governance structure that will ensure
+appropriate decision-making and the financial sustainability of the
+openwashdata community and its initiatives. In general, we are building
+our network, expanding the competencies of our partners, and raising the
+profile of ORD practices within ETH to ensure the long-term,
+decentralised sustainability of this work.
 
-### Activities
+**To what extent will the planned project substantially advance the ORD
+field, or solve a critical outstanding problem in the targeted
+field(s)?**
 
-1.  
-2.  
+This project will contribute to filling knowledge gaps around data
+sharing for research that previously received ethical approval under
+conditions where data sharing wasn’t specified. Data generated at
+research institutions working with private sector partners, and data
+management for different types of data (observational vs. laboratory
+research) and organisations (research institute vs. NGO). The workflows
+and tools developed will advance the overall ORD field and contribute to
+the progress of data management strategies. The WASH sector, as a
+targeted field, is particularly in need of ORD practices and dedicated
+data stewards, as it is often data-rich but information-poor, related to
+the concept of the Data-Information-Knowledge-Wisdon pyramid
+(https://en.wikipedia.org/wiki/DIKW_pyramid). Our goal is to give open
+data the same recognition and prestige as academic papers, and in doing
+so, enable a new way of measuring impact in the WASH sector and beyond.
+Once people (especially researchers who are junior, based outside of
+academia, and/or in the Global South) notice they are being recognized
+and valued for sharing their data, rather than criticised, we expect a
+substantial cultural shift in how work in the WASH sector is measured
+and valued, which will in turn lead to more date-driven decision-making,
+more transparency, and more focus on actually addressing the global
+disparities in water and sanitation.
 
-### Research Questions
+**To what extent does the proposal support a collaborative approach,
+involving significant synergies, complementarities, or/and scientific
+added-value to achieve its objectives?**
 
-1.  RQ 4.1: How does the availability of an R package on CRAN affect the
-    findability and reuse of datasets?
-2.  RQ 4.1: How does the availability of an R package on CRAN affect the
-    findability and reuse of datasets?
-
-### Aims addressed
-
-This WP addresses the aims of specifying ORD standards and prototyping
-ORD tools by creating accessible data packages and improving the
-FAIRness of datasets, thus facilitating and fostering sharing research
-data based on ORD principles.
-
-# Impact (TODO)
-
-**Instructions**
-
-Please address these specific points:
-
-- How sustainable is the proposed project inside the ETH Domain?
-
-- To what extent will the planned project substantially advance the ORD
-  field, or solve a critical outstanding problem in the targeted
-  field(s)?
-
-- To what extent does the proposal support a collaborative approach,
-  involving significant synergies, complementarities, or/and scientific
-  added-value to achieve its objectives?
+The proposal strongly supports a collaborative approach. Our strategic
+partners have been carefully chosen because of their motivation and the
+synergies they offer. We have the day-to-day experience of a data
+steward employed in our research group and will now be able to guide
+other organisations in establishing this position within their own work
+culture. The skills of our partners are highly complementary, as they
+hold significant quantities of valuable data and we can provide the
+support in getting it published as ORD resources. This two-way support
+system will result in significant scientific added-value as we increase
+the overall quantity and quality of the data available in the WASH
+sector, making it re-usable for other researchers.
 
 # Work Packages and milestones
 
-**Instructions**
-
-Please include a detailed Gantt chart or table outlining the timeline of
-your project, including key activities and major deliverables.
-
-------------------------------------------------------------------------
-
-The following Table X shows a basic gantt chart against the four work
+The following Table 1 shows a basic gantt chart against the four work
 packages, including program activities. Column “Lead” abbreviations:
+(LS) Lars Schöbitz, (DS1) Data Steward 1, (DS2) Data Steward 2, (SA)
+Scientific Assistant.
 
-“Any publications derived from this program will be published as open
+Any publications derived from this program will be published as open
 access material, following ORD practices and Open Science standards for
 computational reproducibility and sharing of data and code under FAIR
-principles.”
+principles.
 
 Table X:
 https://docs.google.com/spreadsheets/d/1KbxWuLBKi2mEWWeE935yR5bqoZskq6Joe-6-PviqXsY/edit#gid=0
@@ -576,3 +517,36 @@ Table Z:
 https://docs.google.com/spreadsheets/d/1DHb4j8t1yhV1AyFqCY0ZkpAUwDQT2JArBAeXgiWUmNM/edit#gid=0
 
 # Bibliography
+
+<div id="refs" class="references csl-bib-body">
+
+<div id="ref-wilkinson2016fair" class="csl-entry">
+
+<span class="csl-left-margin">1.
+</span><span class="csl-right-inline">Wilkinson MD, Dumontier M,
+Aalbersberg IjJ, Appleton G, Axton M, Baak A, Blomberg N, Boiten J-W, da
+Silva Santos LB, Bourne PE, Bouwman J, Brookes AJ, Clark T, Crosas M,
+Dillo I, Dumon O, Edmunds S, Evelo CT, Finkers R, Gonzalez-Beltran A,
+Gray AJG, Groth P, Goble C, Grethe JS, Heringa J, ’t Hoen PAC, Hooft R,
+Kuhn T, Kok R, Kok J, Lusher SJ, Martone ME, Mons A, Packer AL, Persson
+B, Rocca-Serra P, Roos M, van Schaik R, Sansone S-A, Schultes E,
+Sengstag T, Slater T, Strawn G, Swertz MA, Thompson M, van der Lei J,
+van Mulligen E, Velterop J, Waagmeester A, Wittenburg P, Wolstencroft K,
+Zhao J, Mons B. [The FAIR Guiding Principles for scientific data
+management and stewardship](https://doi.org/10.1038/sdata.2016.18).
+Scientific Data. 2016 Mar;3(1):160018. </span>
+
+</div>
+
+<div id="ref-stegenga2024qualitative" class="csl-entry">
+
+<span class="csl-left-margin">2.
+</span><span class="csl-right-inline">Stegenga SM, Steltenpohl CN,
+Lustick H, Meyer MS, Renbarger R, Standiford Reyes L, Lee LE.
+[Qualitative research at the crossroads of open science and big data:
+Ethical considerations](https://doi.org/10.1111/spc3.12912). Social and
+Personality Psychology Compass. 2024 Jan;18(1):e12912. </span>
+
+</div>
+
+</div>
